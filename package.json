@@ -1,0 +1,16 @@
+{
+  "name": "rslup_phase2_ishara_project",
+  "version": "1.0.0",
+  "description": "Calculator using node js",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ishara",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  }
+}
